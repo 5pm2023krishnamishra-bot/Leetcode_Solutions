@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
@@ -19,6 +20,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
