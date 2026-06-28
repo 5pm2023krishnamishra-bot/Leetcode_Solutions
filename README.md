@@ -10,17 +10,20 @@
 | [0053-maximum-subarray](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,11 +33,13 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
@@ -53,4 +58,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
