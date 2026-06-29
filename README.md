@@ -63,5 +63,10 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
