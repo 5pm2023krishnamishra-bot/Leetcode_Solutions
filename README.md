@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0050-powx-n) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
