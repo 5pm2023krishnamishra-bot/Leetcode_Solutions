@@ -15,6 +15,7 @@
 | [0238-product-of-array-except-self](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0035-search-insert-position](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
