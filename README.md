@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0169-majority-element) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -46,6 +48,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
