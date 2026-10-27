@@ -25,6 +25,7 @@
 | [0169-majority-element](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0125-valid-palindrome](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -99,4 +102,8 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/5pm2023krishnamishra-bot/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
